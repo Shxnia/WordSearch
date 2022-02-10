@@ -1,0 +1,1964 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-02-10T18:38:33.398-04:00
+  initializedAtString: 2022-02-10T18:38:33.398-04:00
+  entries:
+  - path: .collabignore
+    fullPath: C:\Users\shani\WordSearch\.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Documentation.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Documentation.meta
+    projectPath: Assets\Documentation.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Documentation\Important readme before start.txt
+    fullPath: C:\Users\shani\WordSearch\Assets\Documentation\Important readme before
+      start.txt
+    projectPath: Assets\Documentation\Important readme before start.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Documentation\Important readme before start.txt.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Documentation\Important readme before
+      start.txt.meta
+    projectPath: Assets\Documentation\Important readme before start.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Documentation\wordSearch.pdf
+    fullPath: C:\Users\shani\WordSearch\Assets\Documentation\wordSearch.pdf
+    projectPath: Assets\Documentation\wordSearch.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Documentation\wordSearch.pdf.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Documentation\wordSearch.pdf.meta
+    projectPath: Assets\Documentation\wordSearch.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Fonts.meta
+    projectPath: Assets\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Bold.ttf
+    fullPath: C:\Users\shani\WordSearch\Assets\Fonts\Roboto-Bold.ttf
+    projectPath: Assets\Fonts\Roboto-Bold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Bold.ttf.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Fonts\Roboto-Bold.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Bold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Regular.ttf
+    fullPath: C:\Users\shani\WordSearch\Assets\Fonts\Roboto-Regular.ttf
+    projectPath: Assets\Fonts\Roboto-Regular.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Regular.ttf.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Fonts\Roboto-Regular.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Regular.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Materials.meta
+    projectPath: Assets\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\UIMaterial.mat
+    fullPath: C:\Users\shani\WordSearch\Assets\Materials\UIMaterial.mat
+    projectPath: Assets\Materials\UIMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\UIMaterial.mat.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Materials\UIMaterial.mat.meta
+    projectPath: Assets\Materials\UIMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Android.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\Android.meta
+    projectPath: Assets\Plugins\Android.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Android\libs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\Android\libs.meta
+    projectPath: Assets\Plugins\Android\libs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Android\libs\armeabi-v7a.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\Android\libs\armeabi-v7a.meta
+    projectPath: Assets\Plugins\Android\libs\armeabi-v7a.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Android\libs\armeabi-v7a\libsqlite3.so
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\Android\libs\armeabi-v7a\libsqlite3.so
+    projectPath: Assets\Plugins\Android\libs\armeabi-v7a\libsqlite3.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Android\libs\armeabi-v7a\libsqlite3.so.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\Android\libs\armeabi-v7a\libsqlite3.so.meta
+    projectPath: Assets\Plugins\Android\libs\armeabi-v7a\libsqlite3.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Android\libs\x86.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\Android\libs\x86.meta
+    projectPath: Assets\Plugins\Android\libs\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Android\libs\x86\libsqlite3.so
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\Android\libs\x86\libsqlite3.so
+    projectPath: Assets\Plugins\Android\libs\x86\libsqlite3.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Android\libs\x86\libsqlite3.so.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\Android\libs\x86\libsqlite3.so.meta
+    projectPath: Assets\Plugins\Android\libs\x86\libsqlite3.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\EasyEasing.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\EasyEasing.meta
+    projectPath: Assets\Plugins\EasyEasing.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\EasyEasing\easyEasing.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\EasyEasing\easyEasing.dll
+    projectPath: Assets\Plugins\EasyEasing\easyEasing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\EasyEasing\easyEasing.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\EasyEasing\easyEasing.dll.meta
+    projectPath: Assets\Plugins\EasyEasing\easyEasing.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\x64.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\x64.meta
+    projectPath: Assets\Plugins\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\x64\sqlite3.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\x64\sqlite3.dll
+    projectPath: Assets\Plugins\x64\sqlite3.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\x64\sqlite3.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\x64\sqlite3.dll.meta
+    projectPath: Assets\Plugins\x64\sqlite3.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\x86.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\x86.meta
+    projectPath: Assets\Plugins\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\x86\sqlite3.dll
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\x86\sqlite3.dll
+    projectPath: Assets\Plugins\x86\sqlite3.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\x86\sqlite3.dll.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Plugins\x86\sqlite3.dll.meta
+    projectPath: Assets\Plugins\x86\sqlite3.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\entry.prefab
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\entry.prefab
+    projectPath: Assets\Prefabs\entry.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\entry.prefab.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\entry.prefab.meta
+    projectPath: Assets\Prefabs\entry.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\entry-1.prefab
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\entry-1.prefab
+    projectPath: Assets\Prefabs\entry-1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\entry-1.prefab.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\entry-1.prefab.meta
+    projectPath: Assets\Prefabs\entry-1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\GridImage.prefab
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\GridImage.prefab
+    projectPath: Assets\Prefabs\GridImage.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\GridImage.prefab.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\GridImage.prefab.meta
+    projectPath: Assets\Prefabs\GridImage.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Text.prefab
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\Text.prefab
+    projectPath: Assets\Prefabs\Text.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Text.prefab.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\Text.prefab.meta
+    projectPath: Assets\Prefabs\Text.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\TextSlider.prefab
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\TextSlider.prefab
+    projectPath: Assets\Prefabs\TextSlider.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\TextSlider.prefab.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Prefabs\TextSlider.prefab.meta
+    projectPath: Assets\Prefabs\TextSlider.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources.meta
+    projectPath: Assets\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures.meta
+    projectPath: Assets\Resources\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories.meta
+    projectPath: Assets\Resources\Textures\categories.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\animals.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\animals.png
+    projectPath: Assets\Resources\Textures\categories\animals.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\animals.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\animals.png.meta
+    projectPath: Assets\Resources\Textures\categories\animals.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\birds.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\birds.png
+    projectPath: Assets\Resources\Textures\categories\birds.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\birds.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\birds.png.meta
+    projectPath: Assets\Resources\Textures\categories\birds.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\blue.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\blue.png
+    projectPath: Assets\Resources\Textures\categories\blue.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\blue.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\blue.png.meta
+    projectPath: Assets\Resources\Textures\categories\blue.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\body.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\body.png
+    projectPath: Assets\Resources\Textures\categories\body.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\body.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\body.png.meta
+    projectPath: Assets\Resources\Textures\categories\body.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\buildings.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\buildings.png
+    projectPath: Assets\Resources\Textures\categories\buildings.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\buildings.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\buildings.png.meta
+    projectPath: Assets\Resources\Textures\categories\buildings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\business.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\business.png
+    projectPath: Assets\Resources\Textures\categories\business.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\business.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\business.png.meta
+    projectPath: Assets\Resources\Textures\categories\business.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\cats.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\cats.png
+    projectPath: Assets\Resources\Textures\categories\cats.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\cats.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\cats.png.meta
+    projectPath: Assets\Resources\Textures\categories\cats.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\cheese.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\cheese.png
+    projectPath: Assets\Resources\Textures\categories\cheese.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\cheese.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\cheese.png.meta
+    projectPath: Assets\Resources\Textures\categories\cheese.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\cities.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\cities.png
+    projectPath: Assets\Resources\Textures\categories\cities.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\cities.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\cities.png.meta
+    projectPath: Assets\Resources\Textures\categories\cities.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\clothing.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\clothing.png
+    projectPath: Assets\Resources\Textures\categories\clothing.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\clothing.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\clothing.png.meta
+    projectPath: Assets\Resources\Textures\categories\clothing.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\countries.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\countries.png
+    projectPath: Assets\Resources\Textures\categories\countries.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\countries.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\countries.png.meta
+    projectPath: Assets\Resources\Textures\categories\countries.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\dinosaur.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\dinosaur.png
+    projectPath: Assets\Resources\Textures\categories\dinosaur.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\dinosaur.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\dinosaur.png.meta
+    projectPath: Assets\Resources\Textures\categories\dinosaur.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\flowers.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\flowers.png
+    projectPath: Assets\Resources\Textures\categories\flowers.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\flowers.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\flowers.png.meta
+    projectPath: Assets\Resources\Textures\categories\flowers.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\foods.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\foods.png
+    projectPath: Assets\Resources\Textures\categories\foods.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\foods.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\foods.png.meta
+    projectPath: Assets\Resources\Textures\categories\foods.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\fruits.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\fruits.png
+    projectPath: Assets\Resources\Textures\categories\fruits.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\fruits.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\fruits.png.meta
+    projectPath: Assets\Resources\Textures\categories\fruits.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\gray.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\gray.png
+    projectPath: Assets\Resources\Textures\categories\gray.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\gray.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\gray.png.meta
+    projectPath: Assets\Resources\Textures\categories\gray.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\health.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\health.png
+    projectPath: Assets\Resources\Textures\categories\health.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\health.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\health.png.meta
+    projectPath: Assets\Resources\Textures\categories\health.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\jobs.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\jobs.png
+    projectPath: Assets\Resources\Textures\categories\jobs.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\jobs.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\jobs.png.meta
+    projectPath: Assets\Resources\Textures\categories\jobs.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\justice.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\justice.png
+    projectPath: Assets\Resources\Textures\categories\justice.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\justice.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\justice.png.meta
+    projectPath: Assets\Resources\Textures\categories\justice.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\lordofthering.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\lordofthering.png
+    projectPath: Assets\Resources\Textures\categories\lordofthering.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\lordofthering.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\lordofthering.png.meta
+    projectPath: Assets\Resources\Textures\categories\lordofthering.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\music.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\music.png
+    projectPath: Assets\Resources\Textures\categories\music.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\music.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\music.png.meta
+    projectPath: Assets\Resources\Textures\categories\music.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\science.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\science.png
+    projectPath: Assets\Resources\Textures\categories\science.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\science.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\science.png.meta
+    projectPath: Assets\Resources\Textures\categories\science.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\space.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\space.png
+    projectPath: Assets\Resources\Textures\categories\space.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\space.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\space.png.meta
+    projectPath: Assets\Resources\Textures\categories\space.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\sport.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\sport.png
+    projectPath: Assets\Resources\Textures\categories\sport.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\sport.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\sport.png.meta
+    projectPath: Assets\Resources\Textures\categories\sport.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\Thumbs.db
+    projectPath: Assets\Resources\Textures\categories\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\Thumbs.db.meta
+    projectPath: Assets\Resources\Textures\categories\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\unix.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\unix.png
+    projectPath: Assets\Resources\Textures\categories\unix.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\unix.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\unix.png.meta
+    projectPath: Assets\Resources\Textures\categories\unix.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\vehicles.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\vehicles.png
+    projectPath: Assets\Resources\Textures\categories\vehicles.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\categories\vehicles.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\categories\vehicles.png.meta
+    projectPath: Assets\Resources\Textures\categories\vehicles.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\marker.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\marker.png
+    projectPath: Assets\Resources\Textures\marker.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\marker.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\marker.png.meta
+    projectPath: Assets\Resources\Textures\marker.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu.meta
+    projectPath: Assets\Resources\Textures\menu.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\exitButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\exitButton.png
+    projectPath: Assets\Resources\Textures\menu\exitButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\exitButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\exitButton.png.meta
+    projectPath: Assets\Resources\Textures\menu\exitButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\menu.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\menu.png
+    projectPath: Assets\Resources\Textures\menu\menu.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\menu.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\menu.png.meta
+    projectPath: Assets\Resources\Textures\menu\menu.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\menuBack.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\menuBack.png
+    projectPath: Assets\Resources\Textures\menu\menuBack.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\menuBack.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\menuBack.png.meta
+    projectPath: Assets\Resources\Textures\menu\menuBack.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\playButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\playButton.png
+    projectPath: Assets\Resources\Textures\menu\playButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\playButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\playButton.png.meta
+    projectPath: Assets\Resources\Textures\menu\playButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\settingsButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\settingsButton.png
+    projectPath: Assets\Resources\Textures\menu\settingsButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\settingsButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\settingsButton.png.meta
+    projectPath: Assets\Resources\Textures\menu\settingsButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\Thumbs.db
+    projectPath: Assets\Resources\Textures\menu\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\menu\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\menu\Thumbs.db.meta
+    projectPath: Assets\Resources\Textures\menu\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings.meta
+    projectPath: Assets\Resources\Textures\settings.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\menuButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\menuButton.png
+    projectPath: Assets\Resources\Textures\settings\menuButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\menuButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\menuButton.png.meta
+    projectPath: Assets\Resources\Textures\settings\menuButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\nextButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\nextButton.png
+    projectPath: Assets\Resources\Textures\settings\nextButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\nextButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\nextButton.png.meta
+    projectPath: Assets\Resources\Textures\settings\nextButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\radioOff.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\radioOff.png
+    projectPath: Assets\Resources\Textures\settings\radioOff.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\radioOff.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\radioOff.png.meta
+    projectPath: Assets\Resources\Textures\settings\radioOff.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\radioOn.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\radioOn.png
+    projectPath: Assets\Resources\Textures\settings\radioOn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\radioOn.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\radioOn.png.meta
+    projectPath: Assets\Resources\Textures\settings\radioOn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\settings.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\settings.png
+    projectPath: Assets\Resources\Textures\settings\settings.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\settings.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\settings.png.meta
+    projectPath: Assets\Resources\Textures\settings\settings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\settingsTitle.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\settingsTitle.png
+    projectPath: Assets\Resources\Textures\settings\settingsTitle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\settingsTitle.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\settingsTitle.png.meta
+    projectPath: Assets\Resources\Textures\settings\settingsTitle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\sliderOff.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\sliderOff.png
+    projectPath: Assets\Resources\Textures\settings\sliderOff.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\sliderOff.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\sliderOff.png.meta
+    projectPath: Assets\Resources\Textures\settings\sliderOff.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\sliderOn.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\sliderOn.png
+    projectPath: Assets\Resources\Textures\settings\sliderOn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\sliderOn.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\sliderOn.png.meta
+    projectPath: Assets\Resources\Textures\settings\sliderOn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\Thumbs.db
+    projectPath: Assets\Resources\Textures\settings\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\settings\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\settings\Thumbs.db.meta
+    projectPath: Assets\Resources\Textures\settings\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\Thumbs.db
+    projectPath: Assets\Resources\Textures\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Textures\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Resources\Textures\Thumbs.db.meta
+    projectPath: Assets\Resources\Textures\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\menu.unity
+    fullPath: C:\Users\shani\WordSearch\Assets\Scenes\menu.unity
+    projectPath: Assets\Scenes\menu.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\menu.unity.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scenes\menu.unity.meta
+    projectPath: Assets\Scenes\menu.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\shani\WordSearch\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\wordPuzzle.unity
+    fullPath: C:\Users\shani\WordSearch\Assets\Scenes\wordPuzzle.unity
+    projectPath: Assets\Scenes\wordPuzzle.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\wordPuzzle.unity.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scenes\wordPuzzle.unity.meta
+    projectPath: Assets\Scenes\wordPuzzle.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\alertPanel.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\alertPanel.cs
+    projectPath: Assets\Scripts\alertPanel.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\alertPanel.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\alertPanel.cs.meta
+    projectPath: Assets\Scripts\alertPanel.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\category.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\category.cs
+    projectPath: Assets\Scripts\category.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\category.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\category.cs.meta
+    projectPath: Assets\Scripts\category.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\DataService.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\DataService.cs
+    projectPath: Assets\Scripts\DataService.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\DataService.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\DataService.cs.meta
+    projectPath: Assets\Scripts\DataService.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\gameScript.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\gameScript.cs
+    projectPath: Assets\Scripts\gameScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\gameScript.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\gameScript.cs.meta
+    projectPath: Assets\Scripts\gameScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\menuScript.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\menuScript.cs
+    projectPath: Assets\Scripts\menuScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\menuScript.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\menuScript.cs.meta
+    projectPath: Assets\Scripts\menuScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\puzzlecharScript.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\puzzlecharScript.cs
+    projectPath: Assets\Scripts\puzzlecharScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\puzzlecharScript.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\puzzlecharScript.cs.meta
+    projectPath: Assets\Scripts\puzzlecharScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\puzzleItem.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\puzzleItem.cs
+    projectPath: Assets\Scripts\puzzleItem.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\puzzleItem.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\puzzleItem.cs.meta
+    projectPath: Assets\Scripts\puzzleItem.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SQLite.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\SQLite.cs
+    projectPath: Assets\Scripts\SQLite.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SQLite.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\SQLite.cs.meta
+    projectPath: Assets\Scripts\SQLite.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\textSlider.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\textSlider.cs
+    projectPath: Assets\Scripts\textSlider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\textSlider.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\textSlider.cs.meta
+    projectPath: Assets\Scripts\textSlider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\UI.meta
+    projectPath: Assets\Scripts\UI.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI\ButtonFacebook.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\UI\ButtonFacebook.cs
+    projectPath: Assets\Scripts\UI\ButtonFacebook.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI\ButtonFacebook.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\UI\ButtonFacebook.cs.meta
+    projectPath: Assets\Scripts\UI\ButtonFacebook.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI\ButtonRate.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\UI\ButtonRate.cs
+    projectPath: Assets\Scripts\UI\ButtonRate.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UI\ButtonRate.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\UI\ButtonRate.cs.meta
+    projectPath: Assets\Scripts\UI\ButtonRate.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\word.cs
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\word.cs
+    projectPath: Assets\Scripts\word.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\word.cs.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Scripts\word.cs.meta
+    projectPath: Assets\Scripts\word.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\StreamingAssets.meta
+    projectPath: Assets\StreamingAssets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets\wordsearch.db
+    fullPath: C:\Users\shani\WordSearch\Assets\StreamingAssets\wordsearch.db
+    projectPath: Assets\StreamingAssets\wordsearch.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets\wordsearch.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\StreamingAssets\wordsearch.db.meta
+    projectPath: Assets\StreamingAssets\wordsearch.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures.meta
+    projectPath: Assets\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories.meta
+    projectPath: Assets\Textures\categories.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\animals.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\animals.png
+    projectPath: Assets\Textures\categories\animals.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\animals.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\animals.png.meta
+    projectPath: Assets\Textures\categories\animals.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\birds.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\birds.png
+    projectPath: Assets\Textures\categories\birds.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\birds.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\birds.png.meta
+    projectPath: Assets\Textures\categories\birds.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\blue.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\blue.png
+    projectPath: Assets\Textures\categories\blue.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\blue.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\blue.png.meta
+    projectPath: Assets\Textures\categories\blue.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\building.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\building.png
+    projectPath: Assets\Textures\categories\building.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\building.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\building.png.meta
+    projectPath: Assets\Textures\categories\building.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\gray.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\gray.png
+    projectPath: Assets\Textures\categories\gray.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\gray.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\gray.png.meta
+    projectPath: Assets\Textures\categories\gray.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\Thumbs.db
+    projectPath: Assets\Textures\categories\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\categories\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\categories\Thumbs.db.meta
+    projectPath: Assets\Textures\categories\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game.meta
+    projectPath: Assets\Textures\game.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game.png
+    projectPath: Assets\Textures\game.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game.png.meta
+    projectPath: Assets\Textures\game.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\border-black.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\border-black.png
+    projectPath: Assets\Textures\game\border-black.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\border-black.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\border-black.png.meta
+    projectPath: Assets\Textures\game\border-black.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\border-white.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\border-white.png
+    projectPath: Assets\Textures\game\border-white.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\border-white.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\border-white.png.meta
+    projectPath: Assets\Textures\game\border-white.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\menuButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\menuButton.png
+    projectPath: Assets\Textures\game\menuButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\menuButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\menuButton.png.meta
+    projectPath: Assets\Textures\game\menuButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\redalert.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\redalert.png
+    projectPath: Assets\Textures\game\redalert.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\redalert.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\redalert.png.meta
+    projectPath: Assets\Textures\game\redalert.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\Thumbs.db
+    projectPath: Assets\Textures\game\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\game\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\game\Thumbs.db.meta
+    projectPath: Assets\Textures\game\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\marker.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\marker.png
+    projectPath: Assets\Textures\marker.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\marker.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\marker.png.meta
+    projectPath: Assets\Textures\marker.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu.meta
+    projectPath: Assets\Textures\menu.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\ArrowRight@4x.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\ArrowRight@4x.png
+    projectPath: Assets\Textures\menu\ArrowRight@4x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\ArrowRight@4x.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\ArrowRight@4x.png.meta
+    projectPath: Assets\Textures\menu\ArrowRight@4x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\button.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\button.png
+    projectPath: Assets\Textures\menu\button.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\button.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\button.png.meta
+    projectPath: Assets\Textures\menu\button.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\exitButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\exitButton.png
+    projectPath: Assets\Textures\menu\exitButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\exitButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\exitButton.png.meta
+    projectPath: Assets\Textures\menu\exitButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\menu.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\menu.png
+    projectPath: Assets\Textures\menu\menu.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\menu.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\menu.png.meta
+    projectPath: Assets\Textures\menu\menu.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\menuBack.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\menuBack.png
+    projectPath: Assets\Textures\menu\menuBack.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\menuBack.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\menuBack.png.meta
+    projectPath: Assets\Textures\menu\menuBack.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\playButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\playButton.png
+    projectPath: Assets\Textures\menu\playButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\playButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\playButton.png.meta
+    projectPath: Assets\Textures\menu\playButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\rating.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\rating.png
+    projectPath: Assets\Textures\menu\rating.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\rating.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\rating.png.meta
+    projectPath: Assets\Textures\menu\rating.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\settingsButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\settingsButton.png
+    projectPath: Assets\Textures\menu\settingsButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\settingsButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\settingsButton.png.meta
+    projectPath: Assets\Textures\menu\settingsButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\Thumbs.db
+    projectPath: Assets\Textures\menu\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\Thumbs.db.meta
+    projectPath: Assets\Textures\menu\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\thumb-up.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\thumb-up.png
+    projectPath: Assets\Textures\menu\thumb-up.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\menu\thumb-up.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\menu\thumb-up.png.meta
+    projectPath: Assets\Textures\menu\thumb-up.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings.meta
+    projectPath: Assets\Textures\settings.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\backButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\backButton.png
+    projectPath: Assets\Textures\settings\backButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\backButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\backButton.png.meta
+    projectPath: Assets\Textures\settings\backButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\finishbutton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\finishbutton.png
+    projectPath: Assets\Textures\settings\finishbutton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\finishbutton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\finishbutton.png.meta
+    projectPath: Assets\Textures\settings\finishbutton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\menuButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\menuButton.png
+    projectPath: Assets\Textures\settings\menuButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\menuButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\menuButton.png.meta
+    projectPath: Assets\Textures\settings\menuButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\nextButton.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\nextButton.png
+    projectPath: Assets\Textures\settings\nextButton.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\nextButton.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\nextButton.png.meta
+    projectPath: Assets\Textures\settings\nextButton.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\radioOff.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\radioOff.png
+    projectPath: Assets\Textures\settings\radioOff.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\radioOff.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\radioOff.png.meta
+    projectPath: Assets\Textures\settings\radioOff.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\radioOn.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\radioOn.png
+    projectPath: Assets\Textures\settings\radioOn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\radioOn.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\radioOn.png.meta
+    projectPath: Assets\Textures\settings\radioOn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\settings.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\settings.png
+    projectPath: Assets\Textures\settings\settings.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\settings.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\settings.png.meta
+    projectPath: Assets\Textures\settings\settings.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\settingsTitle.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\settingsTitle.png
+    projectPath: Assets\Textures\settings\settingsTitle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\settingsTitle.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\settingsTitle.png.meta
+    projectPath: Assets\Textures\settings\settingsTitle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\sliderOff.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\sliderOff.png
+    projectPath: Assets\Textures\settings\sliderOff.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\sliderOff.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\sliderOff.png.meta
+    projectPath: Assets\Textures\settings\sliderOff.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\sliderOn.png
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\sliderOn.png
+    projectPath: Assets\Textures\settings\sliderOn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\sliderOn.png.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\sliderOn.png.meta
+    projectPath: Assets\Textures\settings\sliderOn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\Thumbs.db
+    projectPath: Assets\Textures\settings\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\settings\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\settings\Thumbs.db.meta
+    projectPath: Assets\Textures\settings\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Thumbs.db
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\Thumbs.db
+    projectPath: Assets\Textures\Thumbs.db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Textures\Thumbs.db.meta
+    fullPath: C:\Users\shani\WordSearch\Assets\Textures\Thumbs.db.meta
+    projectPath: Assets\Textures\Thumbs.db.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\manifest.json
+    fullPath: C:\Users\shani\WordSearch\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\packages-lock.json
+    fullPath: C:\Users\shani\WordSearch\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset.meta
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\NetworkManager.asset.meta
+    projectPath: ProjectSettings\NetworkManager.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PackageManagerSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\PackageManagerSettings.asset
+    projectPath: ProjectSettings\PackageManagerSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimelineSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\TimelineSettings.asset
+    projectPath: ProjectSettings\TimelineSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityAdsSettings.asset.meta
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\UnityAdsSettings.asset.meta
+    projectPath: ProjectSettings\UnityAdsSettings.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VersionControlSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\VersionControlSettings.asset
+    projectPath: ProjectSettings\VersionControlSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\XRSettings.asset
+    fullPath: C:\Users\shani\WordSearch\ProjectSettings\XRSettings.asset
+    projectPath: ProjectSettings\XRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\shani\WordSearch\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

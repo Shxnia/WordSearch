@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 26997
+  controlID: 3013
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 26998
+  controlID: 3014
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 26999
+  controlID: 3015
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -399,9 +399,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b4ac0000
-      m_LastClickedID: 44212
-      m_ExpandedIDs: 364cfeff2043fffffebeffff1abfffff34bfffffc4bfffffeabfffff16c0ffff7ac0ffffe0d3ffff82f9ffff5efbffff303e00001641000024420000a04c0000aa4d000074580000b25d0000ba5d0000c05d0000da5d0000e05d0000ea5d0000005e0000105e0000445e00006c5e0000865e0000905e0000ac5e0000e45e0000ea5e0000145f0000205f0000245f0000285f00004c5f0000505f0000565f0000925f0000f87f00005a8000000281000062810000a8ab0000
+      m_SelectedIDs: 7c400000
+      m_LastClickedID: 16508
+      m_ExpandedIDs: 86faffff72fbffff464000006c400000f44000008241000092410000ba41000000420000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -462,9 +462,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 446.51956, y: 213.68268, z: -0.0008583069}
+    m_Target: {x: 518.95215, y: 201.89104, z: 0}
     speed: 2
-    m_Value: {x: 446.51956, y: 213.68268, z: -0.0008583069}
+    m_Value: {x: 518.95215, y: 201.89104, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -515,9 +515,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0, y: 0, z: -0, w: -1}
   m_Size:
-    m_Target: 215.79395
+    m_Target: 811.16235
     speed: 2
-    m_Value: 215.79395
+    m_Value: 776.23193
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -581,22 +581,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\shani\WordSearch
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: 16400000
-    m_LastClickedID: 16406
-    m_ExpandedIDs: 000000000240000000ca9a3b
+    m_SelectedIDs: f63f0000
+    m_LastClickedID: 16374
+    m_ExpandedIDs: 00000000e43f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -624,7 +624,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000240000000ca9a3b
+    m_ExpandedIDs: 00000000e43f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
